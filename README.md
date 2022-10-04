@@ -1,2 +1,0 @@
-# shima
-Many items available
